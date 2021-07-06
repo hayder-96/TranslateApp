@@ -1,0 +1,678 @@
+<resources>
+    <string name="app_name">تعلم اكثر من 200 كلمة انجليزية</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="letters">Letters</string>
+    <string name="numbers">Numbers</string>
+    <string name="color">Colors</string>
+    <string name="country">Countries</string>
+    <string name="family">Family</string>
+    <string name="fruits">Fruits</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="months">Months</string>
+    <string name="days">Days</string>
+    <string name="seasons">Seasons</string>
+    <string name="Electrical_devices">Electrical devices</string>
+    <string name="transportation">Transportation</string>
+    <string name="animals">Animals</string>
+    <string name="Occupations">Occupations</string>
+
+
+    <string name="LETTERS">احرف</string>
+    <string name="NUMBERS">ارقام</string>
+    <string name="COLORS">الوان</string>
+    <string name="COUNTRY">بلدان</string>
+    <string name="FAMILY">عائلة</string>
+    <string name="FRUITS">فواكه</string>
+    <string name="VEGETABLES">خضراوات</string>
+    <string name="MONTHS">اشهر</string>
+    <string name="DAYS">ايام</string>
+    <string name="SEASONS">فصول السنة</string>
+    <string name="ELECTRICAL">اجهزة كهربائية</string>
+    <string name="TRANSPORTATION">وسائل نقل</string>
+    <string name="ANIMALS">حيوانات</string>
+    <string name="OCCUPATIONS">مهن</string>
+
+
+
+
+
+
+
+
+
+    <string name="A">A</string>
+    <string name="a">a</string>
+    <string name="B">B</string>
+    <string name="b">b</string>
+    <string name="C">C</string>
+    <string name="c">c</string>
+    <string name="D">D</string>
+    <string name="d">d</string>
+    <string name="E">E</string>
+    <string name="e">e</string>
+    <string name="F">F</string>
+    <string name="f">f</string>
+    <string name="G">G</string>
+    <string name="g">g</string>
+    <string name="H">H</string>
+    <string name="h">h</string>
+    <string name="I">I</string>
+    <string name="i">i</string>
+    <string name="J">J</string>
+    <string name="j">j</string>
+    <string name="K">K</string>
+    <string name="k">k</string>
+    <string name="L">L</string>
+    <string name="l">l</string>
+    <string name="M">M</string>
+    <string name="m">m</string>
+    <string name="N">N</string>
+    <string name="n">n</string>
+    <string name="O">O</string>
+    <string name="o">o</string>
+    <string name="P">P</string>
+    <string name="p">p</string>
+    <string name="Q">Q</string>
+    <string name="q">q</string>
+    <string name="R">R</string>
+    <string name="r">r</string>
+    <string name="S">S</string>
+    <string name="s">s</string>
+    <string name="T">T</string>
+    <string name="t">t</string>
+    <string name="U">U</string>
+    <string name="u">u</string>
+    <string name="V">V</string>
+    <string name="v">v</string>
+    <string name="W">W</string>
+    <string name="w">w</string>
+    <string name="X">X</string>
+    <string name="x">x</string>
+    <string name="Y">Y</string>
+    <string name="y">y</string>
+    <string name="Z">Z</string>
+    <string name="z">z</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="zero">0</string>
+    <string name="ZERO">ZERO</string>
+    <string name="one">1</string>
+    <string name="ONE">ONE</string>
+    <string name="tow">2</string>
+    <string name="TOW">TOW</string>
+    <string name="three">3</string>
+    <string name="THREE">THREE</string>
+    <string name="four">4</string>
+    <string name="FOUR">FOUR</string>
+    <string name="five">5</string>
+    <string name="FIVE">FIVE</string>
+    <string name="six">6</string>
+    <string name="SIX">SIX</string>
+    <string name="seven">7</string>
+    <string name="SEVEN">SEVEN</string>
+    <string name="eight">8</string>
+    <string name="EIGHT">EIGHT</string>
+    <string name="nine">9</string>
+    <string name="NINE">NINE</string>
+    <string name="ten">10</string>
+    <string name="TEN">TEN</string>
+    <string name="eleven">11</string>
+    <string name="ELEVEN">ELEVEN</string>
+    <string name="twelve">12</string>
+    <string name="TWELVE">TWELVE</string>
+    <string name="thirteen">13</string>
+    <string name="THIRTEEN">THIRTEEN</string>
+    <string name="fourteen">14</string>
+    <string name="FOURTEEN">FOURTEEN</string>
+    <string name="fifteen">15</string>
+    <string name="FIFTEEN">FIFTEEN</string>
+    <string name="sixteen">16</string>
+    <string name="SIXTEEN">SIXTEEN</string>
+    <string name="seventeen">17</string>
+    <string name="SEVENTEEN">SEVENTEEN</string>
+    <string name="eighteen">18</string>
+    <string name="EIGHTEEN">EIGHTEEN</string>
+    <string name="nineteen">19</string>
+    <string name="NINETEEN">NINETEEN</string>
+    <string name="twenty">20</string>
+    <string name="TWENTY">TWENTY</string>
+
+
+
+
+
+    <string name="jordan">الاردن</string>
+    <string name="JORDAN">JORDAN</string>
+    <string name="emirates">الامارات</string>
+    <string name="EMIRATES">EMIRATE</string>
+    <string name="eritrea">ارتيريا</string>
+    <string name="ERITREA">ERITREA</string>
+    <string name="bahrain">البحرين</string>
+    <string name="BAHRAIN">BAHRAIN</string>
+    <string name="algeria">الجزائر</string>
+    <string name="ALGERIA">ALGERIA</string>
+    <string name="saudi">السعودية</string>
+    <string name="SAUDI">SAUDI</string>
+    <string name="sudan">السودان</string>
+    <string name="SUDAN">SUDAN</string>
+    <string name="somalia">الصومال</string>
+    <string name="SOMALIA">SOMALIA</string>
+    <string name="iraq">العراق</string>
+    <string name="IRAQ">IRAQ</string>
+    <string name="kuwait">الكويت</string>
+    <string name="KUWAIT">KUWAIT</string>
+    <string name="morocco">المغرب</string>
+    <string name="MOROCCO">MOROCCO</string>
+    <string name="yemen">اليمن</string>
+    <string name="YEMEN">YEMEN</string>
+    <string name="tunisia">تونس</string>
+    <string name="TUNISIA">TUNISIA</string>
+    <string name="djibouti">جيبوتي</string>
+    <string name="DJIBOUTI">DJIBOUTI</string>
+    <string name="syria">سوريا</string>
+    <string name="SYRIA">SYRIA</string>
+    <string name="oman">عمان</string>
+    <string name="OMAN">OMAN</string>
+    <string name="palestine">فلسطين</string>
+    <string name="PALESTINE">PALESTINE</string>
+    <string name="qatar">قطر</string>
+    <string name="QATAR">QATAR</string>
+    <string name="lebanon">لبنان</string>
+    <string name="LEBANON">LEBANON</string>
+    <string name="libya">ليبيا</string>
+    <string name="LIBYA">LIBYA</string>
+    <string name="egypt">مصر</string>
+    <string name="EGYPT">EGYPT</string>
+    <string name="mauritania">موريتانيا</string>
+    <string name="MAURITANIA">MAURITANIA</string>
+
+
+
+
+
+
+
+    <string name="black">اسود</string>
+    <string name="BLACK">BLACK</string>
+    <string name="red">احمر</string>
+    <string name="RED">RED</string>
+    <string name="blue">ازرق</string>
+    <string name="BLUE">BLUE</string>
+    <string name="white">ابيض</string>
+    <string name="WHITE">WHITE</string>
+    <string name="green">اخضر</string>
+    <string name="GREEN">GREEN</string>
+    <string name="pink">وردي</string>
+    <string name="PINK">PINK</string>
+    <string name="grey">رمادي</string>
+    <string name="GREY">GREY</string>
+    <string name="orange">برتقالي</string>
+    <string name="ORANGE">ORANGE</string>
+    <string name="brouwn">بني</string>
+    <string name="BROUWN">BROUWN</string>
+    <string name="purple">بنفسجي</string>
+    <string name="PURPLE">PURPLE</string>
+    <string name="yellow">اصفر</string>
+    <string name="YELLOW">YELLOW</string>
+
+
+
+
+
+
+
+    <string name="father">الاب</string>
+    <string name="FATHER">FATHER</string>
+    <string name="mother">ام</string>
+    <string name="MOTHER">MOTHER</string>
+    <string name="brother">اخ</string>
+    <string name="BROTHER">BROTHER</string>
+    <string name="sister">اخت</string>
+    <string name="SISTER">SISTER</string>
+    <string name="grandfather">جد</string>
+    <string name="GRANDFATHER">GRANDFATHER</string>
+    <string name="grandmother">جدة</string>
+    <string name="GRANDMOTHER">GRANDMOTHER</string>
+    <string name="son">ابن</string>
+    <string name="SON">SON</string>
+    <string name="daughter">ابنة</string>
+    <string name="DAUGHTER">DAUGHTER</string>
+    <string name="uncle">عم/خال</string>
+    <string name="UNCLE">UNCLE</string>
+    <string name="aunt">عمة/خالة</string>
+    <string name="AUNT">AUNT</string>
+    <string name="husband">زوج</string>
+    <string name="HUSBAND">HUSBAND</string>
+    <string name="wife">زوجة</string>
+    <string name="WIFE">WIFE</string>
+    <string name="cousin">ابن العم/الخال</string>
+    <string name="COUSIN">COUSIN</string>
+
+
+
+
+
+
+
+
+
+
+
+    <string name="accountant">محاسب</string>
+    <string name="ACCOUNTANT">ACCOUNTANT</string>
+    <string name="actor">ممثل</string>
+    <string name="ACTOR">ACTOR</string>
+    <string name="ambassador">سفير</string>
+    <string name="AMBASSADOR">AMBASSADOR</string>
+    <string name="artist">فنان</string>
+    <string name="ARTIST">ARTIST</string>
+    <string name="baker">خباز</string>
+    <string name="BAKER">BAKER</string>
+    <string name="barber">حلاق</string>
+    <string name="BARBER">BARBER</string>
+    <string name="carpenter">نجار</string>
+    <string name="CARPENTER">CARPENTER</string>
+    <string name="chef">طباخ</string>
+    <string name="CHEF">CHEF</string>
+    <string name="doctor">دكتور</string>
+    <string name="DOCTOR">DOCTOR</string>
+    <string name="driver">سائق</string>
+    <string name="DRIVER">DRIVER</string>
+    <string name="electrician">كهربائي</string>
+    <string name="ELECTRICIAN">ELECTRICIAN</string>
+    <string name="engineer">مهندس</string>
+    <string name="ENGINEER">ENGINEER</string>
+    <string name="jewellery">صائغ</string>
+    <string name="JEWELLERY">JEWELLERY</string>
+    <string name="journalist">صحفي</string>
+    <string name="JOURNALIST">JOURNALIST</string>
+    <string name="judge">قاضي</string>
+    <string name="JUDGE">JUDGE</string>
+    <string name="lawyer">محامي</string>
+    <string name="LAWYER">LAWYER</string>
+    <string name="mason">بناء</string>
+    <string name="MASON">MASON</string>
+    <string name="mechanical">ميكانيكي</string>
+    <string name="MECHANICAL">MECHANICAL</string>
+    <string name="merchant">تاجر</string>
+    <string name="MERCHANT">MERCHANT</string>
+    <string name="nurse">ممرضة</string>
+    <string name="NURSE">NURSE</string>
+    <string name="painter">رسام</string>
+    <string name="PAINTER">PAINTER</string>
+    <string name="photographer">مصور</string>
+    <string name="PHOTOGRAPHER">PHOTOGRAPHER</string>
+    <string name="pilot">طيار</string>
+    <string name="PILOT">PILOT</string>
+    <string name="poet">شاعر</string>
+    <string name="POET">POET</string>
+    <string name="policeman">شرطي</string>
+    <string name="POLICEMAN">POLICEMAN</string>
+    <string name="salesman">بائع</string>
+    <string name="SALESMAN">SALESMAN</string>
+    <string name="scientist">عالم</string>
+    <string name="SCIENTIST">SCIENTIST</string>
+    <string name="secretary">سكرتير</string>
+    <string name="SECRETARY">SECRETARY</string>
+    <string name="smith">حداد</string>
+    <string name="SMITH">SMITH</string>
+    <string name="surgeon">جراح</string>
+    <string name="SURGEON">SURGEON</string>
+    <string name="teacher">معلم</string>
+    <string name="TEACHER">TEACHER</string>
+    <string name="weaver">حائك</string>
+    <string name="WEAVER">WEAVER</string>
+    <string name="writer">كاتب</string>
+    <string name="WRITER">WRITER</string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="ant">نملة</string>
+    <string name="ANT">ANT</string>
+    <string name="bear">دب</string>
+    <string name="BEAR">BEAR</string>
+    <string name="bee">نحلة</string>
+    <string name="BEE">BEE</string>
+    <string name="camel">جمل</string>
+    <string name="CAMEL">CAMEL</string>
+    <string name="cat">قطة</string>
+    <string name="CAT">CAT</string>
+    <string name="chicken">دجاج</string>
+    <string name="CHICKEN">CHICKEN</string>
+    <string name="cow">بقرة</string>
+    <string name="COW">COW</string>
+    <string name="crocodile">تمساح</string>
+    <string name="CROCODILE">CROCODILE</string>
+    <string name="deer">غزال</string>
+    <string name="DEER">DEER</string>
+    <string name="dinosaur">ديناصور</string>
+    <string name="DINOSAUR">DINOSAUR</string>
+    <string name="dog">كلب</string>
+    <string name="DOG">DOG</string>
+    <string name="donkey">حمار</string>
+    <string name="DONKEY">DONKEY</string>
+    <string name="dove">حمامة</string>
+    <string name="DOVE">DOVE</string>
+    <string name="eagle">نسر</string>
+    <string name="EAGLE">EAGLE</string>
+    <string name="elephant">فيل</string>
+    <string name="ELEPHANT">ELEPHANT</string>
+    <string name="falcon">صقر</string>
+    <string name="FALCON">FALCON</string>
+    <string name="fish">سمك</string>
+    <string name="FISH">FISH</string>
+    <string name="fox">ثعلب</string>
+    <string name="FOX">FOX</string>
+    <string name="horse">حصان</string>
+    <string name="HORSE">HORSE</string>
+    <string name="kangaroo">كنغر</string>
+    <string name="KANGAROO">KANGAROO</string>
+    <string name="leopard">فهد</string>
+    <string name="LEOPARD">LEOPARD</string>
+    <string name="lion">اسد</string>
+    <string name="LION">LION</string>
+    <string name="monkey">قرد</string>
+    <string name="MONKEY">MONKEY</string>
+    <string name="mouse">فار</string>
+    <string name="MOUSE">MOUSE</string>
+    <string name="ostrich">نعامة</string>
+    <string name="OSTRICH">OSTRICH</string>
+    <string name="owl">بوم</string>
+    <string name="OWL">OWL</string>
+    <string name="rabbit">ارنب</string>
+    <string name="RABBIT">RABBIT</string>
+    <string name="shark">قرش</string>
+    <string name="SHARK">SHARK</string>
+    <string name="sheep">خروف</string>
+    <string name="SHEEP">SHEEP</string>
+    <string name="snake">افعى</string>
+    <string name="SNAKE">SNAKE</string>
+    <string name="sparrow">عصفور</string>
+    <string name="SPARROW">SPARROW</string>
+    <string name="spider">عنكبوت</string>
+    <string name="SPIDER">SPIDER</string>
+    <string name="squirrel">سنجاب</string>
+    <string name="SQUIRREL">SQUIRREL</string>
+    <string name="tiger">نمر</string>
+    <string name="TIGER">TIGER</string>
+    <string name="wolf">ذئب</string>
+    <string name="WOLF">WOLF</string>
+    <string name="bat">خفاش</string>
+    <string name="BAT">BAT</string>
+    <string name="giraffe">زرافة</string>
+    <string name="GIRAFFE">GIRAFFE</string>
+    <string name="penguin">بطريق</string>
+    <string name="PENGUIN">PENGUIN</string>
+    <string name="seal">فقمة</string>
+    <string name="SEAL">SEAL</string>
+    <string name="tortoise">سلحفاة</string>
+    <string name="TORTOISE">TORTOISE</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="bicycle">دراجة هوائية</string>
+    <string name="BICYCLE">BICYCLE</string>
+    <string name="bus">حافلة</string>
+    <string name="BUS">BUS</string>
+    <string name="car">سيارة</string>
+    <string name="CAR">CAR</string>
+    <string name="motorcycle">دراجة نارية</string>
+    <string name="MOTORCYCLE">MOTORCYCLE</string>
+    <string name="plane">طائرة</string>
+    <string name="PLANE">PLANE</string>
+    <string name="ship">سفينة</string>
+    <string name="SHIP">SHIP</string>
+    <string name="spaceship">سفينة فضائية</string>
+    <string name="SPACESHIP">SPACESHIP</string>
+    <string name="steamship">باخرة</string>
+    <string name="STEAMSHIP">STEAMSHIP</string>
+    <string name="submarine">غواصة</string>
+    <string name="SUBMARINE">SUBMARINE</string>
+    <string name="subway">مترو</string>
+    <string name="SUBWAY">SUBWAY</string>
+    <string name="train">قطار</string>
+    <string name="TRAIN">TRAIN</string>
+
+
+
+
+
+
+
+
+    <string name="sunday">الاحد</string>
+    <string name="SUNDAY">sunday</string>
+    <string name="monday">الاثنين</string>
+    <string name="MONDAY">monday</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="TUESDAY">tuesday</string>
+    <string name="wednesday">الاربعاء</string>
+    <string name="WEDNESDAY">wednesday</string>
+    <string name="thursday">الخميس</string>
+    <string name="THURSDAY">thursday</string>
+    <string name="friday">الجمعة</string>
+    <string name="FRIDAY">friday</string>
+    <string name="saturday">السبت</string>
+    <string name="SATURDAY">saturday</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="january">كانون الثاني</string>
+    <string name="JANUARY">JANUARY</string>
+    <string name="february">شباط</string>
+    <string name="FEBRUARY">FEBRUARY</string>
+    <string name="march">اذار</string>
+    <string name="MARCH">MARCH</string>
+    <string name="april">نيسان</string>
+    <string name="APRIL">APRIL</string>
+    <string name="may">ايار</string>
+    <string name="MAY">MAY</string>
+    <string name="june">حزيران</string>
+    <string name="JUNE">JUNE</string>
+    <string name="july">تموز</string>
+    <string name="JULY">JULY</string>
+    <string name="august">اب</string>
+    <string name="AUGUST">AUGUST</string>
+    <string name="september">ايلول</string>
+    <string name="SEPTEMBER">SEPTEMBER</string>
+    <string name="october">تشرين الاول</string>
+    <string name="OCTOBER">OCTOBER</string>
+    <string name="november">تشرين الثاني</string>
+    <string name="NOVEMBER">NOVEMBER</string>
+    <string name="december">كانون الاول</string>
+    <string name="DECEMBER">DECEMBER</string>
+
+
+
+
+
+
+
+
+    <string name="apple">تفاحة</string>
+    <string name="APPLE">APPLE</string>
+    <string name="apricot">مشمش</string>
+    <string name="APRICOT">APRICOT</string>
+    <string name="avocado">افوكادو</string>
+    <string name="AVOCADO">AVOCADO</string>
+    <string name="banana">موز</string>
+    <string name="BANANA">BANANA</string>
+    <string name="blueberry">توت</string>
+    <string name="BLUEBERRY">BLUEBERRY</string>
+    <string name="carrots">جزر</string>
+    <string name="CARROTS">CARROTS</string>
+    <string name="cherries">كرز</string>
+    <string name="CHERRIES">CHERRIES</string>
+    <string name="coconut">جوز هند</string>
+    <string name="COCONUT">COCONUT</string>
+    <string name="dates">تمر</string>
+    <string name="DATES">DATES</string>
+    <string name="fig">تين</string>
+    <string name="FIG">FIG</string>
+    <string name="grape">عنب</string>
+    <string name="GRAPE">GRAPE</string>
+    <string name="kiwi">كيوي</string>
+    <string name="KIWI">KIWI</string>
+    <string name="lemon">ليمون</string>
+    <string name="LEMON">LEMON</string>
+    <string name="melon">شمام</string>
+    <string name="MELON">MELON</string>
+    <string name="olive">زيتون</string>
+    <string name="OLIVE">OLIVE</string>
+    <string name="orangee">برتقال</string>
+    <string name="ORANGEE">ORANGE</string>
+    <string name="peach">خوخ</string>
+    <string name="PEACH">PEACH</string>
+    <string name="pear">كمثرى</string>
+    <string name="PEAR">PEAR</string>
+    <string name="plum">برقوق</string>
+    <string name="PLUM">PLUM</string>
+    <string name="quince">سفرجل</string>
+    <string name="QUINCE">QUINCE</string>
+    <string name="pineapple">اناناس</string>
+    <string name="PINEAPPLE">PINEAPPLE</string>
+    <string name="pomegranate">رمان</string>
+    <string name="POMEGRANATE">POMEGRANATE</string>
+    <string name="watermelon">بطيخ</string>
+    <string name="WATERMELON">WATERMELON</string>
+    <string name="strawberries">فراولة</string>
+    <string name="STRAWBERRIES">STRAWBERRIES</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="aubergine">باذنجان</string>
+    <string name="AUBERGINE">AUBERGINE</string>
+    <string name="basil">ريحان</string>
+    <string name="BASIL">BASIL</string>
+    <string name="beans">فاصولياء</string>
+    <string name="BEANS">BEANS</string>
+    <string name="cauliflower">قرنبيط</string>
+    <string name="CAULIFLOWER">CAULIFLOWER</string>
+    <string name="celery">بقدونس</string>
+    <string name="CELERY">CELERY</string>
+    <string name="cucumber">خيار</string>
+    <string name="CUCUMBER">CUCUMBER</string>
+    <string name="garlic">ثوم</string>
+    <string name="GARLIC">GARLIC</string>
+    <string name="lettuce">خس</string>
+    <string name="LETTUCE">LETTUCE</string>
+    <string name="okra">بامية</string>
+    <string name="OKRA">OKRA</string>
+    <string name="onions">يصل</string>
+    <string name="ONIONS">ONIONS</string>
+    <string name="pepper">فلفل</string>
+    <string name="PEPPER">PEPPER</string>
+    <string name="potato">بطاطا</string>
+    <string name="POTATO">POTATO</string>
+    <string name="pumpkin">يقطين</string>
+    <string name="PUMPKIN">PUMPKIN</string>
+    <string name="spinach">سبانخ</string>
+    <string name="SPINACH">SPINACH</string>
+    <string name="tomatoes">طماطم</string>
+    <string name="TOMATOES">TOMATOES</string>
+    <string name="zucchini">كوسة</string>
+    <string name="ZUCCHINI">ZUCCHINI</string>
+
+
+
+
+
+
+    <string name="autumn">خريف</string>
+    <string name="AUTUMN">AUTUMN</string>
+    <string name="spring">ربيع</string>
+    <string name="SPRING">SPRING</string>
+    <string name="summer">صيف</string>
+    <string name="SUMMER">SUMMER</string>
+    <string name="winter">شتاء</string>
+    <string name="WINTER">WINTER</string>
+
+
+
+    <string name="camera">الة تصوير</string>
+    <string name="CAMERA">CAMERA</string>
+    <string name="computer">حاسوب</string>
+    <string name="COMPUTER">COMPUTER</string>
+    <string name="conditioner">تكييف</string>
+    <string name="CONDITIONER">CONDITIONER</string>
+    <string name="dryer">مجفف شعر</string>
+    <string name="DRYER">HAIR DRYER</string>
+    <string name="fan">مروحة</string>
+    <string name="FAN">FAN</string>
+    <string name="fridge">ثلاجة</string>
+    <string name="FRIDGE">FRIDGE</string>
+    <string name="heater">سخان</string>
+    <string name="HEATER">HEATER</string>
+    <string name="lamp">مصباح</string>
+    <string name="LAMP">LAMP</string>
+    <string name="tv">تلفاز</string>
+    <string name="TV">TELEVISION</string>
+    <string name="vacuum">مكنسة</string>
+    <string name="VACUUM">VACUUM CLEANER</string>
+    <string name="washing">غسالة</string>
+    <string name="WASHING">WASHER</string>
+
+
+</resources>
+
+
+
